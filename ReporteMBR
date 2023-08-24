@@ -1,0 +1,8 @@
+digraph {
+	mbr [label="
+        <table border=\"0\" cellborder=\"1\" cellspacing=\"0\">
+        <tr><td>MBR</td></tr>
+        <tr><td>Particion1|Particion2|Particion3|Particion4</td></tr>
+        </table>
+        " shape=none]
+}
